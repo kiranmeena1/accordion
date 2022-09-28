@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/kiranmeena1.github.io/accordion/static/css/main.5a785e0b.css",
-    "main.js": "/kiranmeena1.github.io/accordion/static/js/main.abd12966.js",
-    "index.html": "/kiranmeena1.github.io/accordion/index.html",
-    "main.5a785e0b.css.map": "/kiranmeena1.github.io/accordion/static/css/main.5a785e0b.css.map",
-    "main.abd12966.js.map": "/kiranmeena1.github.io/accordion/static/js/main.abd12966.js.map"
+    "main.css": "/accordion/static/css/main.5a785e0b.css",
+    "main.js": "/accordion/static/js/main.abd12966.js",
+    "index.html": "/accordion/index.html",
+    "main.5a785e0b.css.map": "/accordion/static/css/main.5a785e0b.css.map",
+    "main.abd12966.js.map": "/accordion/static/js/main.abd12966.js.map"
   },
   "entrypoints": [
     "static/css/main.5a785e0b.css",
