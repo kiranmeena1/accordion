@@ -9,7 +9,7 @@ const Accordion = (props) => {
   return (
     <div className='accordion' id={`accordion${props.aid}`}>
         <div className='A-list' onClick={handleClick}>
-            <p  className='A-title'>Accordion</p>
+            <p  className='A-title'>Accordion {props.aid}</p>
             <svg className='arrow' id='arrow'fill='white' xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
             <polygon points="12 17.414 3.293 8.707 4.707 7.293 12 14.586 19.293 7.293 20.707 8.707 12 17.414"/>
             </svg>
